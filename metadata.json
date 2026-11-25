@@ -1,0 +1,6 @@
+{
+  "name": "Vespera Stays — Hotel Directory",
+  "description": "Curated boutique hotel directory with full CRUD management, price and title filtering, interactive OpenStreetMap views, and responsive mobile-first design.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

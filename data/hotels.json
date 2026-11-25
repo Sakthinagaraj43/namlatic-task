@@ -1,0 +1,79 @@
+[
+  {
+    "id": "hotel-kyoto-komorebi",
+    "title": "Komorebi Cedar Ryokan",
+    "description": "Set along a quiet moss-lined lane in Kyoto Higashiyama ward, Komorebi blends traditional sugi-cedar joinery with private hinoki soaking tubs overlooking a lantern-lit koi pond.",
+    "latitude": 35.0037,
+    "longitude": 135.7785,
+    "price": 540,
+    "imageUrl": "/src/assets/images/hotel_kyoto_ryokan_1795583313299.jpg",
+    "createdAt": "2026-10-12T09:00:00.000Z",
+    "updatedAt": "2026-10-12T09:00:00.000Z"
+  },
+  {
+    "id": "hotel-amalfi-solaria",
+    "title": "Villa Solaria Cliffside",
+    "description": "Carved into the limestone terraces above Positano, Villa Solaria offers sun-drenched vaulted suites, private citrus gardens, and panoramic dining terraces above the Tyrrhenian Sea.",
+    "latitude": 40.6281,
+    "longitude": 14.485,
+    "price": 780,
+    "imageUrl": "/src/assets/images/hotel_amalfi_cliffside_1795583313712.jpg",
+    "createdAt": "2026-10-14T11:30:00.000Z",
+    "updatedAt": "2026-10-14T11:30:00.000Z"
+  },
+  {
+    "id": "hotel-zermatt-kamm",
+    "title": "Kamm Alpine Timber Lodge",
+    "description": "An intimate ski-in sanctuary in Zermatt framed in charred larch and floor-to-ceiling glazing, featuring wood-burning hearth suites and direct Matterhorn ridge views.",
+    "latitude": 46.0207,
+    "longitude": 7.7491,
+    "price": 620,
+    "imageUrl": "/src/assets/images/hotel_swiss_chalet_1795583314231.jpg",
+    "createdAt": "2026-10-16T15:20:00.000Z",
+    "updatedAt": "2026-10-16T15:20:00.000Z"
+  },
+  {
+    "id": "hotel-marrakech-zelligia",
+    "title": "Riad Zelligia Courtyard",
+    "description": "Restored from a 19th-century merchant courtyard in the Marrakech Medina, this serene residence centers on an emerald zellige plunge pool shaded by Seville orange trees.",
+    "latitude": 31.6295,
+    "longitude": -7.9811,
+    "price": 310,
+    "imageUrl": "/src/assets/images/hotel_marrakech_riad_1795583314598.jpg",
+    "createdAt": "2026-10-18T08:45:00.000Z",
+    "updatedAt": "2026-10-18T08:45:00.000Z"
+  },
+  {
+    "id": "hotel-nordic-lyngen",
+    "title": "Lyngen Fjord Pavilion",
+    "description": "Cantilevered over granite shoreline along Norway Aurlandsfjord, Lyngen Pavilion pairs minimalist Nordic oak interiors with private fjord-water sauna decks.",
+    "latitude": 60.9052,
+    "longitude": 7.1894,
+    "price": 495,
+    "imageUrl": "/src/assets/images/hotel_nordic_fjord_1795583314945.jpg",
+    "createdAt": "2026-10-20T14:10:00.000Z",
+    "updatedAt": "2026-10-20T14:10:00.000Z"
+  },
+  {
+    "id": "hotel-lisbon-miradouro",
+    "title": "Casa do Miradouro House",
+    "description": "Occupying a sunlit ochre townhouse in Alfama, Casa do Miradouro welcomes travelers with hand-painted azulejo salons and a rooftop terrace overlooking the Tagus River.",
+    "latitude": 38.7117,
+    "longitude": -9.1303,
+    "price": 275,
+    "imageUrl": "/src/assets/images/hotel_lisbon_townhouse_1795583315395.jpg",
+    "createdAt": "2026-10-22T10:15:00.000Z",
+    "updatedAt": "2026-10-22T10:15:00.000Z"
+  },
+  {
+    "id": "hotel-big-sur-ventis",
+    "title": "Ventis Redwood Cliff Retreat",
+    "description": "Perched high on Big Sur rugged coastal bluffs, Ventis combines salvaged redwood architecture, salt-mist infinity pools, and quiet trails winding through ancient coastal pines.",
+    "latitude": 36.2469,
+    "longitude": -121.7717,
+    "price": 890,
+    "imageUrl": "/src/assets/images/hotel_big_sur_retreat_1795583315323.jpg",
+    "createdAt": "2026-10-24T17:00:00.000Z",
+    "updatedAt": "2026-10-24T17:00:00.000Z"
+  }
+]
